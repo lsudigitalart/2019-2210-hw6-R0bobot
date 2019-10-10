@@ -7,7 +7,7 @@ var tv;
 
 function preload(){
   spaceShips = loadImage("nebula.jpg");
-  bridge = loadImage("bridge2.png");
+  bridge = loadImage("bridge3.png");
   table = loadImage("Table.png");
   vid = createVideo(['corrupt.mp4', 'hellajeff.mp4'], vidLoad);
   tv = loadImage("tv.png");
